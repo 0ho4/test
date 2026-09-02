@@ -1,7 +1,7 @@
 {
   "name": "Nightcord Custom Profile",
-  "description": "Full Nightcord-style custom profile editor with badges, effects, banner, and avatar integration.",
+  "description": "Applies custom badges, avatar, banner, and effects directly onto the Discord user profile view.",
   "author": "cxsir",
-  "version": "1.0.0",
-  "main": "index.js"
+  "version": "1.2.0",
+  "main": "index1.js"
 }
