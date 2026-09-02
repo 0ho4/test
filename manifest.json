@@ -1,0 +1,7 @@
+{
+  "name": "Nightcord Custom Profile",
+  "description": "Full Nightcord-style custom profile editor with badges, effects, banner, and avatar integration.",
+  "author": "cxsir",
+  "version": "1.0.0",
+  "main": "index.js"
+}
