@@ -1,6 +1,6 @@
 {
   "name": "rainStorm OLED",
-  "description": "An OLED theme with a nifty background.",
+  "description": "An OLED theme with a custom background.",
   "authors": [
     {
       "name": "cxsir",
@@ -76,7 +76,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://media.tenor.com/u_pWfX0cZcAAAAAC/rain-rainy.gif"
+    "url": "https://cdn.corenexis.com/f/Bq6eW3AWCeI.gif"
   },
   "spec": 2
 }
